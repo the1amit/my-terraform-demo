@@ -1,0 +1,1 @@
+vpc_name = "vpc-name-from-file"
